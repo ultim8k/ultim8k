@@ -1,27 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ultim8k/ultim8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kostas.
 
-Here are some ideas to get you started:
+I am a [full stack software engineer](https://cv.kostas.rocks) from a beautiful town in Crete, currently living in London. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I love creating Web, Desktop, Mobile, CLI and IOT apps, mainly using JavaScript/TypeScript and the React/GraphQL/Node.js ecosystem. 
+
+I am director and lead engineer of [Oranger LTD](https://oranger.co.uk), a London-based IT consultancy studio.
+
+Please don't hesitate to get in touch with me to discuss a project, an idea or technology, science (especially astronomy) and why not philosophy.
 
 
-<h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://twitter.com/ultim8k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ultim8k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ultim8k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="https://kostas.rocks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="" height="30" width="40" /></a>
-</p>
 
-
--->
+[Website](https://kostas.rocks) &middot; [Codepen](https://codepen.io/ultim8k) &middot; [CodeSandbox](https://codesandbox.io/u/ultim8k) &middot; [LinkedIn](https://www.linkedin.com/in/ultim8k) &middot; [Instagram](https://instagram.com/ultim8k) &middot; [Twitter](https://twitter.com/ultim8k)
