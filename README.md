@@ -12,4 +12,4 @@ Please don't hesitate to get in touch with me to discuss a project, an idea or t
 
 
 
-[Website](https://kostas.rocks) &middot; [Codepen](https://codepen.io/ultim8k) &middot; [CodeSandbox](https://codesandbox.io/u/ultim8k) &middot; [LinkedIn](https://www.linkedin.com/in/ultim8k) &middot; [Instagram](https://instagram.com/ultim8k)
+[Website](https://kostas.rocks) &middot; [Codepen](https://codepen.io/ultim8k) &middot; [CodeSandbox](https://codesandbox.io/u/ultim8k) &middot; [LinkedIn](https://www.linkedin.com/in/ultim8k)
